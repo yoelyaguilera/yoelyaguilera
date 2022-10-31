@@ -1,3 +1,4 @@
 - 👋 Hola, soy @yoelyaguilera
-- 👀 Estoy interesada en Frontend, Diseño UI/UX
+- 👀 Estoy interesada en Frontend, Diseño UI/UX.
+- 🚀 Actualmente estoy trabajando en aprender un poco de Backend de diferentes lenguajes de programacion como JAVA & JS.
 - 📫 Puedes contactarme en https://www.linkedin.com/in/yoely-aguilera-sotillo-52008016b/
