@@ -1,0 +1,3 @@
+- 👋 Hola, soy @yoelyaguilera
+- 👀 Estoy interesada en Frontend, Diseño UI/UX
+- 📫 Puedes contactarme en https://www.linkedin.com/in/yoely-aguilera-sotillo-52008016b/
